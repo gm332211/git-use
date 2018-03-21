@@ -1,9 +1,8 @@
-# git-use
-git的使用
-创建一个空文件夹
-进入目录下初始化
+#git的使用
+##创建一个空文件夹
+##进入目录下初始化
 git init
-添加提交内容
+##添加提交内容
 git add filename
 提交commit
 git commit -m "this is txt"
