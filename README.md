@@ -59,10 +59,9 @@ git checkout -- text.txt</code></pre>
 ##### 克隆远程仓库
 ##### 创建分支并切换
 <pre><code>git checkout -b dev</code></pre>
-
 ##### 创建分支
-<pre><code></code></pre>
-git branch dev
+<pre><code>git branch dev</code></pre>
+
 ##### 切换分支
 <pre><code>git checkout dev</code></pre>
 
